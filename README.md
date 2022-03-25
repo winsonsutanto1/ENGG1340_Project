@@ -9,3 +9,9 @@ Team Members:
 A description of your game and introduce the game rules.
 
 A list of features that you plan to implement, and explain how each coding element from 1 to 5 listed under the coding requirements aforementioned have supported your features.
+
+    1. Generation of random game sets or events
+    2. Data structures for storing game status
+    3. Dynamic memory management
+    4. File input/output (e.g., for loading/saving game status)
+    5. Program codes in multiple files
