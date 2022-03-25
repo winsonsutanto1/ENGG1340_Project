@@ -4,7 +4,7 @@ ENGG1340 Project ( Group 60 )
 
 Team Members:
 1. Winson Sutanto Kasman (UID:3035946095)
-2. Mao Shuai Yao (UID:
+2. Mao Shuai Yao (UID:3035945998)
 
 A description of your game and introduce the game rules.
 
