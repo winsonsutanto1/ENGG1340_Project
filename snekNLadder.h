@@ -32,6 +32,8 @@ void printWinner(int numOfPlayer, int * player);
 on a snake or ladder. If yes, it changes the value in the player array accordingly and prints the surprise message to the player.
 */
 void checkHiddenBoard( int * player , int counter, string hiddenBoard[]);
+/* game function takes the number of player, the dynamic array player, a boolean flag, counter number in integer, a string input, integer temp, and the hiddenboard which contains
+   string inputs, and run several times until the game finish or terminated by the user */
 void game(int numOfPlayers, int *player, bool flag, int counter, string input, int temp, string hiddenBoard[]);
 
 
