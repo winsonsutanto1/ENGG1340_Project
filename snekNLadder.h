@@ -21,6 +21,8 @@ void setUpLadder(string (&hiddenBoard)[100]);
 int numOfPlayerLeft(int numOfPlayer , int *player);
 //prints the game menu
 void Menu();
+//returns the value of dice roll. If dice roll is 6, dice will be rolled again.
+int rollDice();
 /*checkWinner checks if there is a player who recently just won. takes the numOfPlayer number and player array as input parameter. the output is the player array which is 
 changed in the function. It checks if there is anyone in the player array who reached 100 (which is the winning condition of the game) and changes the player's value in the array
 to the negative of their placement.
