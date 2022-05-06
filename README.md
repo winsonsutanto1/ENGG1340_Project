@@ -23,4 +23,4 @@ The minimum number of players will be 2 and maximum number of players is 4. The 
 
 4. File input/output (e.g., for loading/saving game status) - The players and the position the payer is in will be updated to a separate file to enable the player to save the current game status and continue it in a later date. The text in the file can be read to load the progress of the unfinished game.
 
-5. Program codes in multiple files - storing various functions in different files. Functions like isSnakeHead(), isLadderBase(), eatenBySnake(), climbLadder() et cetera will be stored in a separate file to be used in the main program which is in a different file.
+5. Program codes in multiple files - storing various functions in different files. Functions like isSnakeHead(), isLadderBase(), eatenBySnake(), climbLadder() et cetera will be stored in a separate file to be used in the main program which is in a different file. [The names can be subject to change]
