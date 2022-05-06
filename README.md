@@ -8,7 +8,7 @@ Team Members:
 
 
 
-GAME - SNAKE AND LADDER
+GAME - SNEK AND LADDER
 
 DESCRIPTION :
 
