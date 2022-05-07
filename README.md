@@ -24,3 +24,15 @@ The minimum number of players will be 2 and maximum number of players is 4. The 
 4. File input/output (e.g., for loading/saving game status) - The players and the position the payer is in will be updated to a separate file to enable the player to save the current game status and continue it in a later date. The text in the file can be read to load the progress of the unfinished game.
 
 5. Program codes in multiple files - storing various functions in different files. Functions like isSnakeHead(), isLadderBase(), eatenBySnake(), climbLadder() et cetera will be stored in a separate file to be used in the main program which is in a different file. [The names can be subject to change]
+
+
+
+How to play:
+1. the game will desplay a menu to ask the user whether he/she wants to start a new game or load a previously saved game
+2. When a player starts a new game. he/she will be asked for the number of players in the game.
+3. The players will then be asked to roll the dice in an organzied manner.
+4. if a player lands on a snake or ladder, a surprise message will appear and the corresponding position the player is in will be displayed
+5. A winning message will be displayed when the player reaches 100.
+6. if a player chooses to not roll the dice, he/she can choose if they want to save the game or not
+7. if yes, the user must name the name of the save file. Which they can then open in the future if they choose to load game (he/she must type in the name of the save file when load game).
+8. When there is only one player left who havent won, the game will end and the placements will be displayed to the user.
