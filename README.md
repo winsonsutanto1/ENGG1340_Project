@@ -19,7 +19,7 @@ The minimum number of players will be 2 and maximum number of players is 4. The 
 
 2. Data structures for storing game status - the status of the board will be saved after every player's move. Stored in an array. 
 
-3. Dynamic memory management - use of pointers to allocate and save the data in memory for future times.
+3. Dynamic memory management - use of pointers to allocate and save the data in memory for future times(used in the player array which is dynamic)
 
 4. File input/output (e.g., for loading/saving game status) - The players and the position the payer is in will be updated to a separate file to enable the player to save the current game status and continue it in a later date. The text in the file can be read to load the progress of the unfinished game.
 
